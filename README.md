@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajashree-guha" alt="rajashree-guha" /></a> </p>
 
-- 🔭 I’m currently working on [CASHTRACKRR](https://github.com/kalviumcommunity/S54_Rajashree_Capstone_Expense_Tracker)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
